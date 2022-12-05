@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "avira"
+    "name": "banatie"
   },
   "api": {
-    "projectId": "t6ydyn5t",
+    "projectId": "bnm3ue6a",
     "dataset": "production"
   },
   "plugins": [
